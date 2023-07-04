@@ -8,4 +8,4 @@
   <li>Как выложить проект на хостинг</li>
 </ul>
 
-<a href="https://serjamba.github.io/card-build/"><h1>Посмотреть проект!</h1></a>
+[Посмотреть проект!](https://serjamba.github.io/card-build/)
